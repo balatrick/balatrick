@@ -1,4 +1,4 @@
-![logo](https://github.com/balatrick/Balasubramaniyan/blob/main/Bala.jpg)
+
 <h1 align="center">Hi 👋, I'm Balasubramaniyan A</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
